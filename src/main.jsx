@@ -5,7 +5,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <h1>1.type one normal form </h1>
+    <h1>this is normal prop </h1>
     <App />
   </StrictMode>,
 )

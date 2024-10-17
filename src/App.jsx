@@ -5,7 +5,7 @@ import './App.css'
 import Hello from './second'
 function App() {
 
-  var a=10
+  var a="this is normal form variable"
 
   return (
     <>
