@@ -1,6 +1,5 @@
 import Img from "./fiveth";
 function Kar(t){
-    console.log(t)
    
     return (
         <>

@@ -65,7 +65,7 @@ var obj=[
 function Fake(){
     return (
         <>
-        <h1>this is parent fake api of 5 objects</h1>
+        <h1>This is parent fake api of 5 objects</h1>
         <S_fake b={obj}/>
 
         </>

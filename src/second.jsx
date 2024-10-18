@@ -1,7 +1,7 @@
 
 import Hi from "./third";
 function Hello(prop){
-    console.log(prop)
+    
 
     return (
         <>

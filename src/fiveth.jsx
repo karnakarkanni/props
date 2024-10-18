@@ -1,10 +1,12 @@
-import Fake from "./fake.jsx/fakenormal"
+import Fake from "./fake/fakenormal.jsx"
 import a from "./images/china.jpg"
 import b from "./images/cities-in-america.jpg"
 import c from "./images/download.jpeg"
 import d from "./images/greece.webp"
 import e from "./images/jorden.webp"
 import f from "./images/mumbai-belongs-to-india-2020-09-22.jpg"
+
+
 var img="https://miro.medium.com/v2/resize:fit:1400/1*pzbYin_gqDNVjOSLQs06NQ.jpeg"
 function Img(){
     return (
